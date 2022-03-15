@@ -1,0 +1,19 @@
+body {
+    overflow-x: hidden !important;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #E0479E;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
