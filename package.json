@@ -1,0 +1,17 @@
+{
+  "name": "qyuo-breakout",
+  "version": "1.0.0",
+  "description": "Breakout",
+  "main": "src\\index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "breakout"
+  ],
+  "author": "qyuo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
