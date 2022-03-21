@@ -1,4 +1,4 @@
-# Electron Breakout
+# Breakout
 
 ![breakout](https://user-images.githubusercontent.com/77930041/158472017-7b6aa41b-b754-4bd6-96cd-9cfdb1aee354.gif)
 
